@@ -2,6 +2,8 @@
 Title: Hurricane Mapper
 Author: John.Fay@duke.edu
 Date: Fall 2025
+Name: Alexa Lavinder
+Repository forked from https://github.com/ENV859/HurricaneMapper_PY  
 ---
 
 # HurricaneMapper_PY
